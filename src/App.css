@@ -1,0 +1,21 @@
+.text1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+.todo-container {
+  border: 2px solid green;
+  border-radius: 12px;
+  padding: 12px 12px 12px;
+  width: 170px;
+  height:80px;
+  margin-top: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.form{
+  text-align: center;
+  margin-top : 20px
+}
